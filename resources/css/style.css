@@ -216,7 +216,6 @@ header .mobile {
 #features-section {
   display: flex;
   justify-content: space-between;
-  width: 100%;
   padding: 4rem 5%;
   background-color: #f3f3f3;
 }
@@ -226,6 +225,7 @@ header .mobile {
   padding: 2rem;
   margin: 0px 1.25rem;
   background-color: white;
+  height: 635px;
 }
 
 .feature .image-container {

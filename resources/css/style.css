@@ -297,6 +297,8 @@ header .mobile {
 }
 
 #filters-section .images-container {
+  display: flex;
+  align-items: center;
   max-width: 100%;
   padding: 0 1%;
 }

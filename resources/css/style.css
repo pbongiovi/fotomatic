@@ -221,6 +221,7 @@ header .mobile {
 }
 
 .feature {
+  display: flex;
   flex: 1;
   padding: 2rem;
   margin: 0px 1.25rem;

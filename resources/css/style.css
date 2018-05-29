@@ -6,7 +6,6 @@ html {
 }
 
 .main-content {
-  width: 100%;
   position: relative;
   top: 5.3125rem; /* To offset for fixed header. */
 }

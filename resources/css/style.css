@@ -218,16 +218,13 @@ header .mobile {
   justify-content: space-between;
   padding: 4rem 5%;
   background-color: #f3f3f3;
-  width: 100%;
 }
 
 .feature {
-  display: flex;
   flex: 1;
   padding: 2rem;
   margin: 0px 1.25rem;
   background-color: white;
-  height: 635px;
 }
 
 .feature .image-container {
